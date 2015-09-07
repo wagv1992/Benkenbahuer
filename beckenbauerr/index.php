@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Beckenbauer.</title>
+  <title>Beckenbauer..</title>
   <?php include 'inc/header.php';?>
   <style>
   .carousel-inner > .item > img,
